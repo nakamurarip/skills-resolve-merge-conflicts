@@ -1,3 +1,4 @@
-# References
+## References
 
-* octocat 1 😈
+- This list is totally different from main.
+- And intentionally conflicting!
